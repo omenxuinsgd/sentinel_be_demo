@@ -1,0 +1,8 @@
+# .gitignore
+node_modules/
+package-lock.json
+api.http
+fpdb.py
+index.text
+index2.text
+index3.text
