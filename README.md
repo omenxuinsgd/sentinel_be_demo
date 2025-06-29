@@ -122,7 +122,7 @@ Using **Socket.IO**, events like:
 
 ## 🤝 Credits
 
-Built by blending hardware integration (ZAZ SDK), modern web stack (Node.js + SQLite), and real-time interfaces (Socket.IO).
+Built by blending hardware integration (HFSecurity bio600 SDK), modern web stack (Node.js + SQLite), and real-time interfaces (Socket.IO).
 
 ---
 
